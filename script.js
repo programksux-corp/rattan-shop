@@ -1,5 +1,5 @@
 function showPhone() {
-  alert("Телефон для заказа:\n+380 XX XXX XX XX");
+  alert("Телефон для замовлення:\n+380 XX XXX XX XX");
 }
 
 function createProductCard(product) {
@@ -10,9 +10,9 @@ function createProductCard(product) {
     <img class="product-card__img" src="${product.image}" alt="${product.name}">
     <div class="product-card__body">
       <h3>${product.name}</h3>
-      <p>Размер: ${product.size}</p>
+      <p>Розмір: ${product.size}</p>
       <p class="product-card__price">${product.price}</p>
-      <button class="btn btn--small" type="button">Заказать</button>
+      <button class="btn btn--small" type="button">Замовити</button>
     </div>
   `;
 
