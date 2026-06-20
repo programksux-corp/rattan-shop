@@ -305,3 +305,16 @@ a {
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 640px) {
+  .container {
+    width: calc(100% - 12px);
+  }
+
+  .categories-grid {
+    gap: 14px;
+  }
+
+  .category-card img {
+    height: 280px;
+  }
+}
