@@ -26,9 +26,9 @@ const products = [
   {
     id: 3,
     category: "10l-standard",
-    name: 'Кошик "Чобіт"',
-    size: '10 л',
-    price: '2500 грн',
+    name: 'Кашпо "Чобіт"',
+    size: '8 л',
+    price: '1600 грн',
     image: 'images/chobot.jpg'
   },
   {
@@ -54,5 +54,21 @@ const products = [
     size: '45 × 35 см',
     price: '750 грн',
     image: 'images/tovar3.jpg'
+  },
+  {
+    id: 8,
+    category: "10l-standard",
+    name: 'Кашпо "Чобіт"',
+    size: '8 л',
+    price: '1600 грн',
+    image: 'images/chobot2.jpg'
+  },
+  {
+    id: 9,
+    category: "10l-standard",
+    name: 'Кашпо "Чобіт"',
+    size: '8 л',
+    price: '1600 грн',
+    image: 'images/chobot3.jpg'
   }
 ];
