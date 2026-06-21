@@ -338,23 +338,19 @@ a {
 }
 
 .social-links a {
-  width: 70px;
-  height: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #ffffff;
-  border-radius: 50%;
-  box-shadow: var(--shadow);
   transition: transform 0.3s ease;
 }
 
 .social-links a:hover {
-  transform: translateY(-5px);
+  transform: scale(1.1);
 }
 
 .social-links img {
-  width: 42px;
-  height: 42px;
+  width: 64px;
+  height: 64px;
   object-fit: contain;
+  display: block;
 }
