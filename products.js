@@ -70,5 +70,13 @@ const products = [
     size: '8 л',
     price: '1600 грн',
     image: 'images/chobot3.jpg'
+  },
+  {
+    id: 10,
+    category: "5l-standard",
+    name: 'Пухляш',
+    size: '5 л',
+    price: '500 грн',
+    image: 'images/tovar4.jpg'
   }
 ];
