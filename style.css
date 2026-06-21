@@ -319,25 +319,42 @@ a {
   }
 }
 .social-section {
-    ...
+  padding: 50px 0;
+  text-align: center;
 }
 
 .social-section h2 {
-    ...
+  margin: 0 0 20px;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--text);
 }
 
 .social-links {
-    ...
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
 .social-links a {
-    ...
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  border-radius: 50%;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
 }
 
 .social-links a:hover {
-    ...
+  transform: translateY(-5px);
 }
 
 .social-links img {
-    ...
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
 }
