@@ -2,15 +2,15 @@ const products = [
   {
     id: 1,
     category: "5l-standard",
-    name: 'Кошик "Затишок"',
+    name: 'Пухляш',
     size: '5 л',
     price: '700 грн',
-    image: 'images/testone.jpg'
+    image: 'images/tovar1.jpg'
   },
   {
     id: 6,
     category: "5l-standard",
-    name: 'Кошик "Затишок"',
+    name: 'Пухляш',
     size: '5 л',
     price: '700 грн',
     image: 'images/testtwo.jpg'
