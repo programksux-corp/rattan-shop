@@ -4,7 +4,7 @@ const products = [
     category: "5l-standard",
     name: 'Пухляш',
     size: '5 л',
-    price: '700 грн',
+    price: '500 грн',
     image: 'images/tovar1.jpg'
   },
   {
@@ -12,7 +12,7 @@ const products = [
     category: "5l-standard",
     name: 'Пухляш',
     size: '5 л',
-    price: '700 грн',
+    price: '500 грн',
     image: 'images/tovar2.jpg'
   },
   {
