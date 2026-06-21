@@ -34,7 +34,7 @@ const products = [
   {
     id: 4,
     category: "10l-vase",
-    name: 'Кошик "Корито Баби Яги"',
+    name: 'балконне кашпо',
     size: '45 × 35 см',
     price: '750 грн',
     image: 'images/coruto2.jpg'
@@ -42,9 +42,17 @@ const products = [
   {
     id: 5,
     category: "10l-vase",
-    name: 'Кошик "Корито Баби Яги"',
+    name: 'балконне кашпо',
     size: '45 × 35 см',
     price: '750 грн',
     image: 'images/coruto3.jpg'
+  },
+  {
+    id: 7,
+    category: "10l-vase",
+    name: 'Балконне кашпо',
+    size: '45 × 35 см',
+    price: '750 грн',
+    image: 'images/tovar3.jpg'
   }
 ];
