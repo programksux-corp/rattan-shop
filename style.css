@@ -411,3 +411,22 @@ a {
   object-fit: contain;
   display: block;
 }
+@media (min-width: 641px) {
+
+  .product-card__img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .category-card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+}
