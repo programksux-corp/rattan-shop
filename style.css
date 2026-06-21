@@ -44,7 +44,7 @@ a {
 }
 
 .container {
-  width: min(1120px, calc(100% - 32px));
+  width: min(1240px, calc(100% - 32px));
   margin: 0 auto;
 }
 
@@ -272,8 +272,9 @@ a {
 }
 .categories-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
+  grid-template-columns: repeat(4, minmax(240px, 1fr));
+  gap: 24px;
+  justify-content: center;
 }
 
 .category-card {
