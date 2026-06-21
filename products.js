@@ -13,7 +13,7 @@ const products = [
     name: 'Пухляш',
     size: '5 л',
     price: '700 грн',
-    image: 'images/testtwo.jpg'
+    image: 'images/tovar2.jpg'
   },
   {
     id: 2,
