@@ -318,3 +318,26 @@ a {
     height: 280px;
   }
 }
+.social-section {
+    ...
+}
+
+.social-section h2 {
+    ...
+}
+
+.social-links {
+    ...
+}
+
+.social-links a {
+    ...
+}
+
+.social-links a:hover {
+    ...
+}
+
+.social-links img {
+    ...
+}
