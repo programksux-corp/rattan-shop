@@ -29,7 +29,7 @@ const products = [
     name: 'Кошик "Чобіт"',
     size: '10 л',
     price: '2500 грн',
-    image: 'images/testthree.jpg'
+    image: 'images/chobot.png'
   },
   {
     id: 4,
